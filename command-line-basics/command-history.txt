@@ -1,0 +1,894 @@
+    1  npm install --global gulp-cli
+    2  sudo npm install --global gulp-cli
+    3  sudo npm install --save-dev gulp
+    4  sudo audit fix
+    5  Mars12#%
+    6  sudo npm audit fix
+    7  gulp
+    8  node
+    9  np,
+   10  npm
+   11  node -v
+   12  npm -v
+   13  sudo npm install npm@latest -g
+   14  sudo npm install -g gulp
+   15  cd
+   16  /cd
+   17  cd /Desktop/
+   18  cd /users/Jessica/Desktop
+   19  cd /Victory - Admin Template - FlipTix
+   20  cd /FlipTix_Admin
+   21  cd FlipTix_Admin/
+   22  gulp serve
+   23  sudo gulp serve
+   24  sudo npm install
+   25  cd /DropBox
+   26  cd /Dropbox
+   27  cd /user/Jessica
+   28  cd /users/Jessica
+   29  cd Dropbox/
+   30  cd FlipTix-Admin/
+   31  npm install
+   32  gulp serve
+   33  cd Dropbox
+   34  cd EVAL\ Victory\ -\ Admin\ Template/
+   35  npm install
+   36  sudo npm install
+   37  cd Dropbox/SCA/Code/Corporate\ ACS\ Website/website-11-13-2018/
+   38  git init
+   39  ls -a
+   40  git log
+   41  git status
+   42  git add -A
+   43  get status
+   44  git status
+   45  git commit -m 
+   46  git commit -m "First commit"
+   47  git status
+   48  git log
+   49  git remote
+   50  git remote add origin https://jessica-morales@bitbucket.org/hotbsoftware/acs-website.git
+   51  git remote
+   52  git remote -v
+   53  git push -u origin master
+   54  git pull origin master
+   55  git status
+   56  git push -u origin master
+   57  ls -a
+   58  git pull
+   59  get pull origin master
+   60  git pull origin master
+   61  git pull -u origin master
+   62  git pull origin master
+   63  ls -a
+   64  git remote -v
+   65  git fetch
+   66  git pull
+   67  git pull origin master
+   68  git pull origin master --allow-unrelated-histories
+   69  ls -a
+   70  rm home.html 
+   71  git status
+   72  git add -A
+   73  git commit -m "merged changes"
+   74  git status
+   75  git push -u origin master
+   76  touch README.md
+   77  git status
+   78  git add -A
+   79  git status
+   80  git commit -m "created README.md"
+   81  git push origin master
+   82  cd Dropbox/SCA/Code/Corporate\ ACS\ Website/website-11-13-2018/
+   83  git status
+   84  git add -a
+   85  git add -A
+   86  git commit -m "Initial website build"
+   87  git push
+   88  git status
+   89  exit
+   90  cd Dropbox/SCA/Code/Corporate\ ACS\ Website/website-11-13-2018/
+   91  git status
+   92  git add -A
+   93  git commit -m "changed font, messaging on home page, fixed images issue, and cleaned up buttons"
+   94  git push
+   95  git status
+   96  cd Dropbox/
+   97  cd HOTB\ Website/
+   98  Accreditation Maintenance
+   99  Protect your accreditation
+  100  Quality Assurance and Quality Improvement tools including regulatory quarterly checklists
+  101  Document Storage (accreditation document storage, Policies and Procedures, etc.)
+  102  Alerts about updated standards
+  103  Access to an extensive library of surgical center best 
+  104  git clone https://jessica-morales@bitbucket.org/hotbsoftware/hotb-new.git
+  105  node -v
+  106  npm install npm@latest -g
+  107  cd Desktop
+  108  cd ../
+  109  cd ../
+  110  sudo npm install npm@latest-g
+  111  sudo npm install npm@latest -g
+  112  npm install -g less
+  113  sudo npm install -g less
+  114  cd Dropbox/HOTB\ Website/
+  115  npm install npm@latest -g
+  116  sudo npm install npm@latest
+  117  npm install less
+  118  sudo npm install
+  119  sudo npm install
+  120  bower install
+  121  sudo bower install
+  122  sudo npm update -g npm
+  123  npm install -g grunt-cli
+  124  sudo npm install -g grunt-cli
+  125  cd ../
+  126  cd ../
+  127  sudo npm install -g grunt-cli
+  128  cd Dropbox/HOTB\ Website/
+  129  cd hotb-new/
+  130  sudo npm install npm@latest -g
+  131  sudo npm install -g less
+  132  sudo npm install
+  133  npm audit fix
+  134  sudo npm audit fix
+  135  sudo bower install
+  136  cd ../../../
+  137  sudo npm install -g bower
+  138  cd Dropbox/HOTB\ Website/hotb-new/
+  139  bower install
+  140  grunt --help
+  141  grunt init
+  142  sudo grunt init
+  143  sudo npm assemble -g
+  144  sudo npm install -g assemble
+  145  sudo grunt init
+  146  grunt
+  147  sudo npm install grunt-assemble --save-dev
+  148  sudo grunt init
+  149  sudo grunt init
+  150  sudo grunt build
+  151  grunt serve
+  152  cd Dropbox/SCA/Code/Corporate\ ACS\ Website/website-11-13-2018/
+  153  git pull
+  154  git status
+  155  git add -all
+  156  git add --A
+  157  git add --a
+  158  git commit -m "Adding contact form logic"
+  159  git push origin master
+  160  git status
+  161  git status
+  162  git add -a
+  163  git add --a
+  164  git status
+  165  git commit -m "changes names of form input"
+  166  git push origin master
+  167  git status
+  168  ls
+  169  git pull 
+  170  cd Dropbox/SCA/Code/Corporate\ ACS\ Website/website-11-13-2018/
+  171  git status
+  172  git status
+  173  git add -a
+  174  git add -all
+  175  git add -A
+  176  git status
+  177  git commit -m "Updated corporate facebook website"
+  178  git push
+  179  git status
+  180  exit
+  181  cd Dropbox/SCA/Code/Corporate\ ACS\ Website/website-11-13-2018/
+  182  git pull
+  183  cd Dropbox/SCA/Code/Corporate\ ACS\ Website/website-11-13-2018/
+  184  git status
+  185  git commit -m "Updating Product page, fixed navigation breakpoint, removed Case Study testimonial images"
+  186  git add -All
+  187  git add -all
+  188  git add -A
+  189  git commit -m "Updating Product page, fixed navigation breakpoint, removed Case Study testimonial images"
+  190  git status
+  191  git push
+  192  git status
+  193  git pull
+  194  git status
+  195  git status
+  196  git add -A
+  197  git commit -m "Fixed Padding issue for button on heroes
+  198  git commit -m "Fixed Padding issue for button on heroes"
+  199  git status
+  200  cd Dropbox/SCA/Code/Corporate\ ACS\ Website/website-11-13-2018/
+  201  git status
+  202  git commit -m "Fixed Padding issue for button on heroes"
+  203  git push
+  204  git status
+  205  git status
+  206  git add -A
+  207  git commit -m "fixed redirect on index.html that was left out"
+  208  git push
+  209  git status
+  210  cd Dropbox/SCA/Code/Corporate\ ACS\ Website/website-11-13-2018/
+  211  git status
+  212  git add
+  213  git add -A
+  214  git commit -m "Fixed Left Quote SVG"
+  215  git push
+  216  git status
+  217  cd Dropbox/
+  218  git
+  219  git clone https://jessica-morales@bitbucket.org/hotbsoftware/goware-designs.git
+  220  ls
+  221  git clone https://jessica-morales@bitbucket.org/hotbsoftware/goware-designs.git
+  222  cd GoWare-Designs/
+  223  cd ../
+  224  cd ../
+  225  ls
+  226  cd Dropbox/
+  227  ls
+  228  git clone https://jessica-morales@bitbucket.org/hotbsoftware/goware-designs.git
+  229  cd ../
+  230  ls
+  231  cd Desktop/
+  232  git clone https://jessica-morales@bitbucket.org/hotbsoftware/goware-designs.git
+  233  git clone https://jessica-morales@bitbucket.org/hotbsoftware/goware-designs.git
+  234  cd ../
+  235  cd Dropbox/
+  236  git clone https://jessica-morales@bitbucket.org/hotbsoftware/goware-designs.git
+  237  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  238  cd Dropbox/ACS\ -\ Accreditation\ Compliance\ Solutions/Code/
+  239  git
+  240  git -pull
+  241  git pull -A
+  242  git status
+  243  git clone https://jessica-morales@bitbucket.org/hotbsoftware/acs-website.git
+  244  git clone https://jessica-morales@bitbucket.org/hotbsoftware/acs-website.git
+  245  git status
+  246  cd ../
+  247  cd Code/acs-website/
+  248  git status
+  249  git add -A
+  250  git push 
+  251  git status
+  252  git commit -m "compressing hero images"
+  253  git status
+  254  git push
+  255  got statius
+  256  git status
+  257  exit
+  258  sudo du -sh/.DocumentRevisions-V100
+  259  sudo -sh/.DocumentRevisions-V100
+  260  sudo du -c -sh/.DocumentRevisions-V100
+  261  sudo du ---c -sh/.DocumentRevisions-V100
+  262  sudo du [-c] -sh/.DocumentRevisions-V100
+  263  sudo du-c -sh/.DocumentRevisions-V100
+  264  sudo du -c -sh/.DocumentRevisions-V100
+  265  mkdir -pv ~.Trash/SketchAutosaveHistory && sudo find/Volumes/Macintosh\HD/.DocumentRevisions-V100/ -name *.sketch -exec mv "{}" ~/.Trash/SketchAutosaveHistory/\;
+  266  mkdir -pv ~.Trash/SketchAutosaveHistory && sudo find/Volumes/Macintosh\HD/.DocumentRevisions-V100/ -name *.sketch -exec mv "{}" ~/.Trash/SketchAutosaveHistory/\
+  267  node
+  268  node -v
+  269  npm -v
+  270  npm -v
+  271  npm@latest -g
+  272  install npm@latest -g
+  273  npm install npm@latest -g
+  274  sudo npm install npm@latest -g
+  275  npm install -g npm
+  276  sudo npm install -g npm
+  277  npm -v
+  278  npm@latest
+  279  sudo npm install npm@latest -g
+  280  node -v
+  281  sudo npm install -g n
+  282  sudo n latest
+  283  npx create-react-app tic-tac-toe
+  284  cd /Users/Jessica/Desktop/Jessica/React-Tutorials/
+  285  npx create-react-app Tic-Tac-Toe
+  286  npx create-react-app tic-tac-toe
+  287  cd tic-tac-toe
+  288  cd src
+  289  sudo rm -f *
+  290  git
+  291  git status
+  292  cd Desktop
+  293  cd sc-mailer1
+  294  b2
+  295  reload
+  296  homebrew
+  297  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+  298  bbrbbbbbbbbbbbbasd
+  299  homebrew
+  300  brew
+  301  brew install coreutils
+  302  core install nvm
+  303  brew install nvm
+  304  nvm install --lts
+  305  reload
+  306  ls -a
+  307  ls
+  308  mv .welcome_prompt .welcome_prompt.sh
+  309  cd Desktop/
+  310  ;s
+  311  ls
+  312  lf
+  313  cd sc-mailer1/
+  314  cd Desktop/
+  315  mkdir
+  316  mkdir firstwebsite
+  317  ls
+  318  cd firstwebsite/
+  319  code .
+  320  $ git --version
+  321  git clone https://samhotb@bitbucket.org/hotbsoftware/sc-client.git
+  322  LS
+  323  cd Desktop/
+  324  mkdir hotb
+  325  cd hotb
+  326  git clone https://samhotb@bitbucket.org/hotbsoftware/sc-client.git
+  327  cd sc-client
+  328  git fetch
+  329  git fitch
+  330  git fetch
+  331  git checkout
+  332  git checkout V2-sandbox
+  333  yarn
+  334  npm i -g yarn
+  335  yarn
+  336  yarn dev-server
+  337  code .
+  338  yarn dev-server
+  339  cd Desktop/hotb/sc-client/
+  340  git pull origin V2-sandbox
+  341  git log
+  342  git pull origin V2-sandbox
+  343  cd Desktop
+  344  cd hotb
+  345  cd sc-client
+  346  yarn dev-server
+  347  yarn dev server
+  348  yarn dev-server
+  349  git status
+  350  yarn install
+  351  yarn dev-server
+  352  cd desktop
+  353  cd hotb
+  354  cd sc-client
+  355  yarn install
+  356  yarn dev-server
+  357  git pull origin V2-sandbox
+  358  cd desktop
+  359  cd hotb
+  360  cd sc-client
+  361  yarn install
+  362  yarn dev-server
+  363  yarn install
+  364  yarn dev-server
+  365  git pill origin User-Service
+  366  git pull origin user-service
+  367  cd desktop
+  368  yarn install
+  369  yarn dev-server
+  370  xcode-select --install
+  371  curl -fsSl https://lfz-static.s3-us-west-1.amazonaws.com/code-editor/mac-installer.bash | bash
+  372  git config --global user.name "Joe King"
+  373  git config --global user.name "Sam Vivonia"
+  374  git config --global user.email "snvivonia@gmail.com"
+  375  git config --global --list
+  376  mkdir -p ~/repos
+  377  ls ~
+  378  ls ~/.ssh
+  379  xcode-select --install
+  380  curl -fsSl https://lfz-static.s3-us-west-1.amazonaws.com/code-editor/mac-installer.bash | bash
+  381  echo $SHELL
+  382  exit
+  383  cd repos/
+  384  cd prep-0621-code-solutions/
+  385  pwd
+  386  npm ci
+  387  sudo chown -R 502:20 "/Users/Jessica/.npm"
+  388  npm ci
+  389  git status
+  390  pwd
+  391  git status
+  392  git checkout master
+  393  git checkout -b prep-example/
+  394  git checkout -b prep-example
+  395  git status
+  396  git add prep-example
+  397  git status
+  398  git commit -m "Completed prep-example."
+  399  git push origin prep-example
+  400  git checkout master
+  401  git pull origin master
+  402  cd
+  403  pwd
+  404  cd repos/
+  405  cd prep-0621-code-solutions/
+  406  pwd
+  407  git status
+  408  git checkout master
+  409  git pull origin master
+  410  git checkout -b prep-html-skeleton
+  411  root
+  412  pwd
+  413  git status
+  414  git checkout master
+  415  git checkout -b prep-html-skeleton  
+  416  git add prep-html-skeleton/
+  417  git add prep-html-skeleton
+  418  git status
+  419  git commit -m "Completed prep-html-skeleton"
+  420  git add prep-html-skeleton
+  421  git status
+  422  git commit -m "Completed prep-html-skeleton."
+  423  git add prep-html-skeleton
+  424  git status
+  425  git commit -m "Completed prep-html-skeleton"
+  426  git push origin prep-html-skeleton
+  427  git commit -m "Completed prep-html-skeleton."
+  428  git push origin prep-html-skeleton
+  429  git branch
+  430  git branch -D prep-html-skeleton 
+  431  git checkout -b prep-html-skeleton 
+  432  git push origin prep-html-skeleton 
+  433  cd
+  434  pwd
+  435  git status
+  436  pwd
+  437  cd
+  438  ls
+  439  cd repos/
+  440  cd prep-0621-code-solutions/
+  441  git checkout master
+  442  git pull origin master
+  443  git checkout -b prep-html-syntax
+  444  git checkout master
+  445  git pull origin master
+  446  git status
+  447  pwd
+  448  git status
+  449  ls
+  450  cd prep-html-syntax/
+  451  pwd
+  452  git add prep-html-syntax
+  453  git status
+  454  pwd
+  455  git checkout master
+  456  cd ..
+  457  ls
+  458  lf
+  459  git branch
+  460  git check prep-example
+  461  git checkout prep-example 
+  462  lf
+  463  pwd
+  464  cd ..
+  465  cd prep-0621-code-solutions/
+  466  git remote
+  467  git remote -v
+  468  lf
+  469  cd prep-example/
+  470  lf
+  471  git remote -v
+  472  cd ..
+  473  status
+  474  git status
+  475  git branch
+  476  git checkout prep-html-syntax 
+  477  lf
+  478  git status
+  479  git add .
+  480  git status
+  481  git add .
+  482  git status
+  483  git commit -m "Completed prep-html-syntax"
+  484  git add .
+  485  git status
+  486  git commit -m "Completed prep-html-syntax"
+  487  git push origin prep-html-syntax 
+  488  pwd
+  489  git checkout master
+  490  git pull origin master
+  491  git checkout -b prep-html-links
+  492  pwd
+  493  git status
+  494  git checkout master
+  495  git checkout prep-html-links
+  496  git add prep-html-links
+  497  git status
+  498  git commit -m "Completed prep-html-links"
+  499  git push origin prep-html-links
+  500  git checkout master
+  501  git pull origin master
+  502  pwd
+  503  git status
+  504  git checkout master
+  505  git pull origin master
+  506  git checkout -b prep-css-syntax
+  507  git status
+  508  git add prep-css-syntax
+  509  git status
+  510  git add.
+  511  git add .
+  512  git status
+  513  git commit -m "Completed prep-css-syntax"
+  514  git push origin prep-css-syntax 
+  515  pwd
+  516  git status
+  517  git checkout master
+  518  git checkout -b prep-css-syntax
+  519  git checkout -b prep-css-box-model
+  520  pwd
+  521  git status
+  522  git add prep-css-box-model
+  523  git status
+  524  git commit -m "Completed prep-css-box-model"
+  525  git push origin prep-css-box-model
+  526  git status
+  527  git checkout master
+  528  git pull origin master
+  529  git checkout -b prep-css-display
+  530  pwd
+  531  git status
+  532  git add prep-css-display
+  533  git status
+  534  git commit -m "Completed prep-css-display"
+  535  git push origin prep-css-display
+  536  git checkout prep-css-box-model
+  537  git commit
+  538  git add prep-css-display
+  539  git status
+  540  git commit
+  541  pwd
+  542  cd repos/
+  543  cd m1-0621-code-solutions/
+  544  git status
+  545  git checkout master
+  546  git pull origin master
+  547  git -b html-syntax
+  548  git checkout -b html-syntax
+  549  git status
+  550  git add html-syntax/
+  551  git status
+  552  git commit -m "Completed HTML-Syntax"
+  553  git push origin html-syntax 
+  554  git status
+  555  git checkout master
+  556  git pull origin master
+  557  git status
+  558  git pull origin master
+  559  git checkout -b html-block-and-inline
+  560  git status
+  561  git add html-block-and-inline/
+  562  git status
+  563  git commit -m "Completed html-block-and-inline"
+  564  git push origin html-block-and-inline 
+  565  git status
+  566  git checkout master
+  567  git pull origin master
+  568  git checkout master
+  569  git checkout -b html-lists
+  570  git status
+  571  git add html-lists/
+  572  git status
+  573  git commit -m "Completed HTML-Lists"
+  574  git push origin html-lists 
+  575  git status
+  576  git checkout master
+  577  git pull origin master
+  578  git checkout -b html-link
+  579  git checkout master
+  580  git checkout -b html-links
+  581  git branch -d html-link
+  582  pwd
+  583  git status
+  584  git add html-links/
+  585  git status
+  586  git commit -m "Completed html-links"
+  587  git push origin html-links 
+  588  git status
+  589  git checkout master
+  590  git status
+  591  git pull origin master
+  592  ls
+  593  cd repos/
+  594  cd m1-0621-code-solutions/
+  595  git add javascript-typing-tutor/
+  596  git commit -m "Completed javascript-typing-tutor"
+  597  git push origin javascript-typing-tutor 
+  598  git checkout master
+  599  git pull origin master
+  600  git checkout -b javascript-forms
+  601  ls
+  602  cd repos/
+  603  cd m1-0621-code-solutions/
+  604  git add javascript-forms/
+  605  git commit -m "Completed javascript-forms"
+  606  git push origin javascript-forms 
+  607  git add javascript-forms/
+  608  git commit -m "added reset method"
+  609  git push origin javascript-forms 
+  610  git pull origin master
+  611  git checkout master
+  612  git checkout -b dom-creation
+  613  git add dom-creation/
+  614  git commit -m "Completed dom-creation"
+  615  git push origin dom-creation 
+  616  git checkout master
+  617  git pull origin master
+  618  git checkout -b css-transitions
+  619  git add css-transitions/
+  620  git commit -m "Complete css-transitions"
+  621  git push origin css-transitions 
+  622  git checkout master
+  623  git pull origin master
+  624  git checkout -b css-media-queries
+  625  git add css-media-queries/
+  626  git commit -m "css-media-queries"
+  627  git push origin css-media-queries 
+  628  git checkout master
+  629  git checkout -b dom-event-delegation
+  630  git add dom-event-delegation/
+  631  git commit -m "completed dom-event-delegation"
+  632  git push origin dom-event-delegation 
+  633  git checkout master
+  634  git pull origin master
+  635  git checkout -b css-responsive-layout
+  636  git add css-responsive-layout/
+  637  git commit -m "completed css-responsive-layout"
+  638  git push origin css-responsive-layout 
+  639  git checkout master
+  640  git pull origin master
+  641  git checkout -b javascript-view-swapping
+  642  git add javascript-view-swapping/
+  643  git commit -m "completed javascript-view-swapping"
+  644  git add javascript-view-swapping/
+  645  git commit -m "completed javascript-view-swapping"
+  646  git push origin javascript-view-swapping 
+  647  git checkout master
+  648  git pull origin master
+  649  git checkout -b javascript-and-jason
+  650  git add javascript-and-json/
+  651  git commit -m "javascript-and-json"
+  652  git push origin javascript-and-jason 
+  653  $ ssh-keygen -t ed25519 -C "snvivonia@gmail.com"
+  654  ssh-keygen -t ed25519 -C "snvivonia@gmail.com"
+  655  git push origin javascript-arrays 
+  656  git status
+  657  git checkout master
+  658  git checkout -b javascript-local-storage
+  659  git add javascript-local-storage/
+  660  git commit -m "completed javascript-local-storage"
+  661  git checkout master
+  662  ls
+  663  git remote -v
+  664  git credential-osxkeychain erase
+  665  host=github.com
+  666  ls
+  667  git checkout -b es6-const-let
+  668  git add es6-const-let/
+  669  git commit -m "Completed es6-const-let"
+  670  git checkout master
+  671  git checkout -b es6-template-literals
+  672  git add es6-template-literals/
+  673  git commit -m "Completed es6-template-literals"
+  674  git checkout master
+  675  git checkout es6-const-let 
+  676  git push origin es6-const-let 
+  677  git checkout es6-template-literals 
+  678  git push origin es6-template-literals 
+  679  git checkout javascript-local-storage 
+  680  git push origin javascript-local-storage 
+  681  git checkout javascript-and-jason 
+  682  git branch -m javascript-and-jason javascript-and-json
+  683  git push origin javascript-and-json 
+  684  git checkout master
+  685  git pull origin master
+  686  cd ~/repos
+  687  git clone git@github.com:samanthavivonia/code-journal.git
+  688  cd code-journal/
+  689  npm ci
+  690  git checkout -b issue-1-create-an-entry
+  691  git commit -m "Add a div[data-view="entry-form"] to the HTML."
+  692  git add index.html
+  693  git commit -m "Add a div[data-view="entry-form"] to the HTML."
+  694  git push origin issue-1-create-an-entry 
+  695  git add css/
+  696  git add index.html
+  697  git commit -m "Ensure the form looks nice on mobile and desktop, feature 1"
+  698  git add index.html
+  699  git add js/
+  700  git commit -m "Listen for 'input' events on the photoURL input to update the src attribute of the photo preview when the input value changes, feature 1"
+  701  git add index.html
+  702  git add js/
+  703  git commit -m "listen for 'submit' events on the journal entry form, feature 1"
+  704  git add js/
+  705  git commit -m "Completed feature 1"
+  706  git push origin issue-1-create-an-entry 
+  707  git checkout master
+  708  git pull origin master
+  709  git checkout -b issue-2-view-entries
+  710  git commit -m "Add a sibling div[data-view="entries"] to the HTML, add empty unordered list, add some dummy journal entries, check that they look on desktop and mobile."
+  711  git add css/
+  712  git add index.html
+  713  git commit -m "Add a sibling div[data-view="entries"] to the HTML, add empty unordered list, add some dummy journal entries, check that they look on desktop and mobile."
+  714  git add index.html
+  715  git add js/
+  716  git commit -m "Define function that creates DOM tree, loop through entries to render them, remove dummy examples."
+  717  git add css/
+  718  git add index.html
+  719  git add js/
+  720  git commit -m "Completed feature 2"
+  721  git add index.html
+  722  git commit -m "changed nav bar text"
+  723  git push origin issue-2-view-entries 
+  724  git add js/
+  725  git commit -m "Changed location.reload functionality to innerHTML"
+  726  git checkout master
+  727  git pull origin master
+  728  git add js/
+  729  git commit -m "something went awry. Gonna try pushing direct to master"
+  730  git push origin master
+  731  git checkout -b issue-3-edit-entries
+  732  git add css/
+  733  git add index.html
+  734  git add js/
+  735  git commit -m "Add edit icons with data-entrt-id attributes, listen for clicks, show entry form"
+  736  git add js/
+  737  git commit -m "Find matching entry, pre-populate data into the form"
+  738  git add js/
+  739  git commit -m "Find matching entry, pre-populate data into the form"
+  740  git add js/
+  741  git commit -m "Update submit handler"
+  742  git add js/
+  743  git commit -m "Updated submit handler function"
+  744  git push origin issue-3-edit-entries 
+  745  git checkout master
+  746  git pull origin master
+  747  git checkout -b issue-4-delete-entries
+  748  git add css/
+  749  git add index.html
+  750  git add js/
+  751  git commit -m "Added delete link, added modal and overlay, cancel button works"
+  752  git add js/
+  753  git commit -m "Added delete link, added modal and overlay, cancel button works"
+  754  git add css/
+  755  git add js/
+  756  git commit -m "Delete feature complete"
+  757  git push origin issue-4-delete-entries 
+  758  git checkout master
+  759  git pull origin master
+  760  cd ~/repos/
+  761  git clone git@github.com:samanthavivonia/week-planner.git
+  762  cd week-planner/
+  763  nmp ci
+  764  npm ci
+  765  git checkout -b html-and-css
+  766  git add index.html
+  767  git add styles.css
+  768  git commit -m "Basic skeleton"
+  769  git add index.html
+  770  git add main.js
+  771  git add styles.css
+  772  git commit -m "added view swapping"
+  773  git add index.html
+  774  git add main.js
+  775  git add styles.css
+  776  git commit -m "added create modal and buttons"
+  777  git push origin html-and-css 
+  778  git checkout master
+  779  git pull origin master
+  780  curl -sS https://lfz-static.s3-us-west-1.amazonaws.com/dev-environment/mac-installer.bash | bash
+  781  dev-env
+  782  ls
+  783  cd repos/
+  784  cd m2-0921-code-solutions/
+  785  git add javascript-bank/
+  786  git commit -m "Completed javascript-bank"
+  787  git push origin javascript-bank 
+  788  git checkout master
+  789  git pull origin master
+  790  git checkout -b javascript-timers
+  791  git add javascript-timers/
+  792  git commit -m "Completed javascript-timers"
+  793  git push origin javascript-timers 
+  794  git checkout master
+  795  git checkout -b javascript-carousel
+  796  git checkout master
+  797  git pull origin master
+  798  git checkout javascript-carousel 
+  799  git add javascript-carousel/
+  800  git commit -m "Completed javascript-carousel"
+  801  git push origin javascript-carousel 
+  802  git checkout master
+  803  git pull origin master
+  804  cd repos/
+  805  cd m2-0921-code-solutions/
+  806  git add .
+  807  git commit -m "Completed es6-template-literals"
+  808  git push origin es6-template-literals 
+  809  git add .
+  810  git commit -m "fixed spaces"
+  811  git push origin es6-template-literals 
+  812  git checkout master
+  813  git pull origin master
+  814  git checkout -b es6-destructuring
+  815  git add .
+  816  git commit -m "completed es6-destructuring"
+  817  git push origin es6-destructuring 
+  818  git add .
+  819  git commit -m "fixed book6???"
+  820  git push origin es6-destructuring 
+  821  git checkout master
+  822  git pull origin master
+  823  git checkout -b es6-arrow-functions
+  824  git add .
+  825  git commit -m "Completed es6-arrow-functions"
+  826  git push origin es6-arrow-functions 
+  827  git checkout master
+  828  git checkout -b command-line-basics
+  829  pwd
+  830  man man
+  831  man cat
+  832  cat laziness.txt impatience.txt hubris.txt > three-virtues.txt
+  833  man cat
+  834  cat three-virtues.txt
+  835  man ls
+  836  ls
+  837  man ls
+  838  ls -a
+  839  ls -F
+  840  cd command-line-basics/
+  841  cat laziness.txt impatience.txt hubris.txt > three-virtues.txt
+  842  cat three-virtues.txt 
+  843  ls -a
+  844  ls -F
+  845  ls lfz-staff/
+  846  ls -a
+  847  ls lfz-staff/ -a
+  848  ls lfz-staff/ -F
+  849  ls -aF lfz-staff > lfz-staff/contents.txt
+  850  cat lfz-staff/contents.txt 
+  851  man pwd
+  852  pwd > i-was-here.txt
+  853  ls
+  854  cat i-was-here.txt 
+  855  man echo
+  856  echo 'Hello, World!'
+  857  echo 'Hello, World!' > hello.txt
+  858  ls
+  859  cat hello.txt 
+  860  man touch
+  861  touch > tag-youre-it.txt
+  862  touch tag-youre-it.txt
+  863  ls
+  864  man touch
+  865  touch snoot/boop.txt
+  866  ls
+  867  ls snoot/
+  868  man mkdir
+  869  mkdir parent
+  870  ls
+  871  man mkdir
+  872  mkdir parent/child
+  873  ls
+  874  ls parent/
+  875  mkdir parent/child/grandchild
+  876  ls parent/
+  877  ls parent/child/
+  878  touch parent/child/grandchild/ .gitkeep
+  879  ls -a
+  880  ls -a parent/child/grandchild/
+  881  man mv
+  882  mv pokiemans/ pokemon
+  883  ls
+  884  man rm
+  885  rm lol.txt 
+  886  ls
+  887  rm -r kill-me/
+  888  ls
+  889  man cp
+  890  cp and-then.txt no-and-then.txt
+  891  ls
+  892  man history
+  893  history
+  894  history > command-history.txt
