@@ -1,0 +1,22 @@
+{
+  "name": "express-intro",
+  "version": "1.0.0",
+  "description": "express intro package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samanthavivonia/m2-0921-code-solutions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samanthavivonia/m2-0921-code-solutions/issues"
+  },
+  "homepage": "https://github.com/samanthavivonia/m2-0921-code-solutions#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
