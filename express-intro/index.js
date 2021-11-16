@@ -1,12 +1,7 @@
 const express = require('express');
 const app = express();
-const port = 3000;
 
-app.get('/', (req, res) => {
-  res.send('Hello World!');
-});
-
-app.listen(port, () => {
+app.listen(3000, () => {
   // eslint-disable-next-line no-console
-  console.log(`Example app listening at http://localhost:${port}`);
+  console.log('Express server listening on port 3000');
 });
