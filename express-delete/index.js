@@ -21,22 +21,21 @@ var grades = {
   }
 };
 
-var gradesArray = [];
-for (var property in grades) {
-  gradesArray.push(grades[property]);
-}
+app.listen(3000, () => {
+  // eslint-disable-next-line no-console
+  console.log('Express server listening on port 3000');
+});
 
 app.get('/api/grades', (req, res) => {
+  var gradesArray = [];
+  for (var property in grades) {
+    gradesArray.push(grades[property]);
+  }
   res.json(gradesArray);
 });
 
 app.delete('/api/grades/:id', (req, res) => {
   delete grades[req.params.id];
   res.sendStatus(204);
-  console.log('Delete works!');
-});
-
-app.listen(3000, () => {
-  // eslint-disable-next-line no-console
-  console.log('Express server listening on port 3000');
+  res.send(grades);
 });
