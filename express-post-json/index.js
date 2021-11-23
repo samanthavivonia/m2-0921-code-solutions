@@ -25,5 +25,5 @@ app.post('/api/grades', (req, res) => {
   newObj.id = nextId;
   grades[nextId] = newObj;
   nextId++;
-  res.json(grades);
+  res.json(newObj);
 });
