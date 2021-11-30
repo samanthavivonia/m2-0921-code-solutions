@@ -1,4 +1,3 @@
-const { error } = require('console');
 const express = require('express');
 const app = express();
 const fs = require('fs');
@@ -33,15 +32,17 @@ app.get('/api/notes/:id', (req, res) => {
 app.post('/api/notes', (req, res) => {
   if (!req.body) {
     res.status(400).json({ error: 'content is a required field' });
-  } else if (error) {
-    res.status(500).json({ error: 'an unexpected error occurred' });
   } else {
     var newObj = req.body;
     newObj.id = noteData.nextId;
     noteData.notes[noteData.nextId] = newObj;
     noteData.nextId++;
-    res.status(201).json(newObj);
-    fs.writeFile('./data.json', JSON.stringify(noteData, null, 2), () => {
+    fs.writeFile('./data.json', JSON.stringify(noteData, null, 2), err => {
+      if (err) {
+        res.status(500).json({ error: 'an unexpected error occurred' });
+      } else {
+        res.status(201).json(newObj);
+      }
     });
   }
 });
@@ -66,13 +67,15 @@ app.put('/api/notes/:id', (req, res) => {
     res.status(400).json({ error: 'content is a required field' });
   } else if (!noteData.notes[req.params.id]) {
     res.status(404).json({ error: 'cannot find note with id ' + req.params.id });
-  } else if (error) {
-    res.status(500).json({ error: 'an unexpected error occurred' });
   } else {
     noteData.notes[req.params.id] = req.body;
     noteData.notes[req.params.id].id = parseInt(req.params.id);
-    res.json(noteData.notes[req.params.id]);
-    fs.writeFile('./data.json', JSON.stringify(noteData, null, 2), () => {
+    fs.writeFile('./data.json', JSON.stringify(noteData, null, 2), err => {
+      if (err) {
+        res.status(500).json({ error: 'an unexpected error occurred' });
+      } else {
+        res.status(200).json(noteData.notes[req.params.id]);
+      }
     });
   }
 });
