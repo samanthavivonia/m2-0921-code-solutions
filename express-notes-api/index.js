@@ -18,7 +18,7 @@ app.get('/api/notes', (req, res) => {
 });
 
 app.get('/api/notes/:id', (req, res) => {
-  if (req.params.id < 0 || isNaN(req.params.id)) {
+  if (req.params.id < 0 || !Number.isInteger(req.params.id)) {
     res.status(400).json({ error: 'id must be a positive integer' });
   } else if (!noteData.notes[req.params.id]) {
     res.status(404).json({ error: 'cannot find note with id ' + req.params.id });
@@ -46,20 +46,24 @@ app.post('/api/notes', (req, res) => {
 });
 
 app.delete('/api/notes/:id', (req, res) => {
-  if (req.params.id < 0 || isNaN(req.params.id)) {
+  if (req.params.id < 0 || !Number.isInteger(req.params.id)) {
     res.status(400).json({ error: 'id must be a positive integer' });
   } else if (!noteData.notes[req.params.id]) {
     res.status(404).json({ error: 'cannot find note with id ' + req.params.id });
   } else {
     delete noteData.notes[req.params.id];
-    res.sendStatus(204);
-    fs.writeFile('./data.json', JSON.stringify(noteData, null, 2), () => {
+    fs.writeFile('./data.json', JSON.stringify(noteData, null, 2), err => {
+      if (err) {
+        res.status(500).json({ error: 'an unexpected error occurred' });
+      } else {
+        res.sendStatus(204);
+      }
     });
   }
 });
 
 app.put('/api/notes/:id', (req, res) => {
-  if (req.params.id < 0 || isNaN(req.params.id)) {
+  if (req.params.id < 0 || !Number.isInteger(req.params.id)) {
     res.status(400).json({ error: 'id must be a positive integer' });
   } if (!req.body.content || req.body.content === '') {
     res.status(400).json({ error: 'content is a required field' });
