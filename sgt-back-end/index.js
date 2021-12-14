@@ -104,7 +104,7 @@ app.post('/api/grades', (req, res, next) => {
     });
     return;
   }
-  if (!req.body.score) {
+  if (!req.body.score && Number(req.body.score !== 0)) {
     res.status(400).json({
       error: 'Must include score'
     });
@@ -163,7 +163,7 @@ app.put('/api/grades/:gradeId', (req, res, next) => {
     });
     return;
   }
-  if (!req.body.score) {
+  if (!req.body.score && Number(req.body.score) !== 0) {
     res.status(400).json({
       error: 'Must include score'
     });
