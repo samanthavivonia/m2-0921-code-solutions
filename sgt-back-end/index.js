@@ -111,7 +111,7 @@ app.post('/api/grades', (req, res, next) => {
     return;
   }
   const scoreInt = Number(req.body.score);
-  if (!Number.isInteger(scoreInt) || scoreInt <= 0 || scoreInt > 100) {
+  if (!Number.isInteger(scoreInt) || scoreInt < 0 || scoreInt > 100) {
     res.status(400).json({
       error: 'Score must be an integer between 0 and 100'
     });
@@ -170,7 +170,7 @@ app.put('/api/grades/:gradeId', (req, res, next) => {
     return;
   }
   const scoreInt = Number(req.body.score);
-  if (!Number.isInteger(scoreInt) || scoreInt <= 0 || scoreInt > 100) {
+  if (!Number.isInteger(scoreInt) || scoreInt < 0 || scoreInt > 100) {
     res.status(400).json({
       error: 'Score must be an integer between 0 and 100'
     });
